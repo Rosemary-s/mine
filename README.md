@@ -1,7 +1,5 @@
 # mine
 first project
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
